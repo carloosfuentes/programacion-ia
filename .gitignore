@@ -1,1 +1,8 @@
 # Ignorando carpetas
+pistachos/
+test/
+Pistachio_Image_Dataset/
+
+# Ignorando modelos
+*.keras
+*.npy
