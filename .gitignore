@@ -2,7 +2,11 @@
 pistachos/
 test/
 Pistachio_Image_Dataset/
+Rice_Image_Dataset/
+PetImages/
+famosos/
 
 # Ignorando modelos
 *.keras
 *.npy
+*.codex
